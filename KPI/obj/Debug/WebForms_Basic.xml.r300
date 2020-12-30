@@ -1,0 +1,1234 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KPI
+</name>
+</assembly>
+<members>
+<member name="T:KPI.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:KPI.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:KPI.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:KPI.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:KPI.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:KPI.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:KPI.Resources.KPI.language">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.btnAdd">
+<summary>
+  Looks up a localized string similar to 追加.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.btnDelete">
+<summary>
+  Looks up a localized string similar to 削除.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.btnDetail">
+<summary>
+  Looks up a localized string similar to 編集.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.btnEdit">
+<summary>
+  Looks up a localized string similar to 詳細.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.carHeader">
+<summary>
+  Looks up a localized string similar to プロジェク.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.clmDP">
+<summary>
+  Looks up a localized string similar to 部.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.clmLeader">
+<summary>
+  Looks up a localized string similar to 盟主.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.clmMember">
+<summary>
+  Looks up a localized string similar to メンバー.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.clmNP">
+<summary>
+  Looks up a localized string similar to プロジェク.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.clmNum">
+<summary>
+  Looks up a localized string similar to 項番.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.confDelete">
+<summary>
+  Looks up a localized string similar to この作業を本当に削除しますか？削除後は元に戻すことはできません。.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.empData">
+<summary>
+  Looks up a localized string similar to 何もデータが見つかりませんでした！.
+</summary>
+</member>
+<member name="P:KPI.Resources.KPI.language.search">
+<summary>
+  Looks up a localized string similar to 探す....
+</summary>
+</member>
+<member name="F:KPI._Default._linkEnglishLang">
+<summary>
+linkEnglishLang control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI._Default._Literal1">
+<summary>
+Literal1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI._Default._linkVietnameseLang">
+<summary>
+linkVietnameseLang control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI._Default._Literal2">
+<summary>
+Literal2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI._Default._Literal3">
+<summary>
+Literal3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.KeepAlive._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.EditContentService.GetEditContent(System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+ <summary>
+ get info task
+ </summary>
+ <param name="page"></param>
+ <param name="pageSize"></param>
+ <param name="sortColumn"></param>
+ <param name="search"></param>
+ <param name="sortOrder"></param>
+ <param name="role"></param>
+ <param name="idUser"></param>
+ <param name="idProject"></param>
+ <returns>list info task</returns>
+</member>
+<member name="M:KPI.EditContentService.GetCountEditContent(System.String,System.String,System.String,System.Int32)">
+ <summary>
+ get number count record task
+ </summary>
+ <param name="search"></param>
+ <param name="role"></param>
+ <param name="idUser"></param>
+ <param name="idProject"></param>
+ <returns>number count record task</returns>
+</member>
+<member name="M:KPI.EditContentService.GetListAnalysisContent(System.String,System.Int32,System.Int32,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="idUser"></param>
+ <param name="idProject"></param>
+ <param name="idTask"></param>
+ <param name="role"></param>
+ <returns></returns>
+</member>
+<member name="M:KPI.EditContentService.UpdateReasonHour(System.String,System.String,System.Int32,System.Int32,System.String,System.String,System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="idUser"></param>
+ <param name="role"></param>
+ <param name="idProject"></param>
+ <param name="idTask"></param>
+ <param name="hourDesign"></param>
+ <param name="hourCode"></param>
+ <param name="hourTest"></param>
+ <param name="Reason"></param>
+ <returns></returns>
+</member>
+<member name="M:KPI.EditContentService.GetReasonOfTask(System.Int32,System.String,System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="idTask"></param>
+ <param name="role"></param>
+ <param name="idUser"></param>
+ <param name="idProject"></param>
+ <returns></returns>
+</member>
+<member name="M:KPI.PhaseService.GetListPhase">
+ <summary>
+ get list phase
+ </summary>
+ <returns>list phase from db</returns>
+</member>
+<member name="M:KPI.TargetService.GetAnalysisContent(System.String,System.Int32,System.String)">
+ <summary>
+ get namephase bug hour from database 
+ </summary>
+ <param name="idUser"></param>
+ <param name="idProject"></param>
+ <param name="Role"></param>
+ <returns></returns>
+</member>
+<member name="M:KPI.UserService.GetUser(KPI.KPI_M_User)">
+ <summary>
+ get user 
+ </summary>
+ <param name="user">user with user name and password</param>
+ <returns>info user</returns>
+</member>
+<member name="M:KPI.UserService.UpdateLockUser(System.Int32,System.String)">
+ <summary>
+ update count number login fail for user
+ </summary>
+ <param name="CountFail">count number login fail</param>
+ <param name="userName">username</param>
+ <returns>return true if update sucsess or false if update fail</returns>
+</member>
+<member name="M:KPI.UserService.GetLockUser(System.String)">
+ <summary>
+ get number count login fail for user
+ </summary>
+ <param name="userName"></param>
+ <returns></returns>
+</member>
+<member name="M:KPI.UserService.CheckEmail(System.String)">
+ <summary>
+ check email exist in database 
+ </summary>
+ <param name="email"></param>
+ <returns>if email exist return user info or if email is not exist return nothing</returns>
+</member>
+<member name="M:KPI.UserService.CreateCode(System.String,System.String,System.DateTime)">
+ <summary>
+ set token and time for user (when send mail reset password) 
+ </summary>
+ <param name="email"></param>
+ <param name="code">token</param>
+ <param name="timeCreate">time when send email</param>
+ <returns>return true if set suscess or fail if set fail</returns>
+</member>
+<member name="M:KPI.UserService.CheckForgetPassword(System.String,System.String)">
+ <summary>
+ check user exist with token and email
+ </summary>
+ <param name="email"></param>
+ <param name="code">token</param>
+ <returns>return user if user exist or nothing if user is not exist</returns>
+</member>
+<member name="M:KPI.UserService.UpdatePassword(System.String,System.String)">
+ <summary>
+ update new password
+ </summary>
+ <param name="username"></param>
+ <param name="password"></param>
+ <returns>return true if update sucess false if update fail</returns>
+</member>
+<member name="F:KPI.Add._txtGuid">
+<summary>
+txtGuid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._ddlTask">
+<summary>
+ddlTask control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._ddlPhase">
+<summary>
+ddlPhase control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._ddlError">
+<summary>
+ddlError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._txtBug">
+<summary>
+txtBug control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._lblReference">
+<summary>
+lblReference control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._txtReference">
+<summary>
+txtReference control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._btnContent">
+<summary>
+btnContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Add._btnErrorAnalysis">
+<summary>
+btnErrorAnalysis control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ErrorAnalysisList._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ErrorAnalysisList._btnDeleteMulti">
+<summary>
+btnDeleteMulti control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ErrorAnalysisList._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ErrorAnalysisList._lkbSearch">
+<summary>
+lkbSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ErrorAnalysisList._grvErrorAnalysis">
+<summary>
+grvErrorAnalysis control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ErrorAnalysisList._txtGuid">
+<summary>
+txtGuid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._txtGuid">
+<summary>
+txtGuid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._ddlPhase">
+<summary>
+ddlPhase control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._ddlError">
+<summary>
+ddlError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._txtBug">
+<summary>
+txtBug control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._lblReference">
+<summary>
+lblReference control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._txtReference">
+<summary>
+txtReference control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._btnContent">
+<summary>
+btnContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyErrorAnalysis._btnErrorAnalysis">
+<summary>
+btnErrorAnalysis control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.ModifyErrorAnalysis.btnContent_Click(System.Object,System.EventArgs)">
+ <summary>
+ Submit and Continue Button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:KPI._404._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI._500._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._lblMess">
+<summary>
+lblMess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._lblTitle">
+<summary>
+lblTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._txtDuAn">
+<summary>
+txtDuAn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._ddlBoPhan">
+<summary>
+ddlBoPhan control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._dllPL">
+<summary>
+dllPL control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._inpHide">
+<summary>
+inpHide control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._txtListMember">
+<summary>
+txtListMember control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._btnSub">
+<summary>
+btnSub control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Input._btnCancle">
+<summary>
+btnCancle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._Literal3">
+<summary>
+Literal3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._btnDelete">
+<summary>
+btnDelete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._lkbSearch">
+<summary>
+lkbSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._grvProject">
+<summary>
+grvProject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.WebForm2._Literal1">
+<summary>
+Literal1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.EditQuanlityAnalysis._txtWorkDesign">
+<summary>
+txtWorkDesign control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.EditQuanlityAnalysis._txtWorkCode">
+<summary>
+txtWorkCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.EditQuanlityAnalysis._txtWorkTest">
+<summary>
+txtWorkTest control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.EditQuanlityAnalysis._txtReason">
+<summary>
+txtReason control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.EditQuanlityAnalysis._btnUpdate">
+<summary>
+btnUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.EditQuanlityAnalysis.btnUpdate_Click(System.Object,System.EventArgs)">
+ <summary>
+ event when update buton
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:KPI.QuanlityAnalysis._btnDowloadCSV">
+<summary>
+btnDowloadCSV control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.QuanlityAnalysis._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.QuanlityAnalysis._lkbSearch">
+<summary>
+lkbSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.QuanlityAnalysis._grvQA">
+<summary>
+grvQA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.QuanlityAnalysis._txtGuid">
+<summary>
+txtGuid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.QuanlityAnalysis.SetDataSource">
+ <summary>
+ set data for gridview
+ </summary>
+</member>
+<member name="M:KPI.QuanlityAnalysis.RowIndexChanging(System.Object,System.Web.UI.WebControls.GridViewPageEventArgs)">
+ <summary>
+ Occurs when one of the pager buttons is clicked
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:KPI.QuanlityAnalysis.ChangeSortIcon(System.String)">
+ <summary>
+ change session store class icon sort and order sort
+ </summary>
+ <param name="nameColumn"></param>
+</member>
+<member name="M:KPI.QuanlityAnalysis.RowCommand(System.Object,System.Web.UI.WebControls.GridViewCommandEventArgs)">
+ <summary>
+ Occurs when a button is clicked
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:KPI.WebForm1._btnDowloadCSV">
+<summary>
+btnDowloadCSV control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyContentList._txtGuid">
+<summary>
+txtGuid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyContentList._txtContent">
+<summary>
+txtContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyContentList._ddlLevel">
+<summary>
+ddlLevel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyContentList._ddlUser">
+<summary>
+ddlUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyContentList._btnContent">
+<summary>
+btnContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ModifyContentList._btnTask">
+<summary>
+btnTask control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.TaskList._btnDeleteMulti">
+<summary>
+btnDeleteMulti control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.TaskList._btntoCsv">
+<summary>
+btntoCsv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.TaskList._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.TaskList._lkbSearch">
+<summary>
+lkbSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.TaskList._grvContent">
+<summary>
+grvContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.TaskList._txtGuid">
+<summary>
+txtGuid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ChangePass._txtPassword">
+<summary>
+txtPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ChangePass._lblErrorPassword">
+<summary>
+lblErrorPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ChangePass._txtNewPassword">
+<summary>
+txtNewPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ChangePass._txtTypeNewPassword">
+<summary>
+txtTypeNewPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ChangePass._lblErrorNewPassword">
+<summary>
+lblErrorNewPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ChangePass._btnChangePassword">
+<summary>
+btnChangePassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.ChangePass.btnChangePassword_Click(System.Object,System.EventArgs)">
+ <summary>
+ event when click button change password
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:KPI.ForgotPass._lblSucces">
+<summary>
+lblSucces control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ForgotPass._txtRecaptcha">
+<summary>
+txtRecaptcha control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ForgotPass._txtEmail">
+<summary>
+txtEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ForgotPass._RequiredFieldValidator2">
+<summary>
+RequiredFieldValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ForgotPass._lblError">
+<summary>
+lblError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ForgotPass._btnSendEmail">
+<summary>
+btnSendEmail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.ForgotPass.btnSendEmail_Click(System.Object,System.EventArgs)">
+ <summary>
+ evwnt when click button send email
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:KPI.Login._txtUser">
+<summary>
+txtUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Login._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Login._txtPassword">
+<summary>
+txtPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Login._RequiredFieldValidator2">
+<summary>
+RequiredFieldValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Login._lblEr">
+<summary>
+lblEr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Login._btnLogin">
+<summary>
+btnLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.Login.btnLogin_Click(System.Object,System.EventArgs)">
+ <summary>
+ event click login
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:KPI.Theme._lkbBack">
+<summary>
+lkbBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Theme._hylInfo">
+<summary>
+hylInfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Theme._lkbLogout">
+<summary>
+lkbLogout control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Theme._SiteMapDataSource1">
+<summary>
+SiteMapDataSource1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Theme._SiteMapPath1">
+<summary>
+SiteMapPath1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Theme._ContentPlaceHolder1">
+<summary>
+ContentPlaceHolder1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.Theme._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._lblSucces">
+<summary>
+lblSucces control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._txtPassword">
+<summary>
+txtPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._RequiredFieldValidator2">
+<summary>
+RequiredFieldValidator2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._txtRetypePassword">
+<summary>
+txtRetypePassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._RequiredFieldValidator1">
+<summary>
+RequiredFieldValidator1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._lblError">
+<summary>
+lblError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:KPI.ResetPass._btnResetPassword">
+<summary>
+btnResetPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:KPI.ResetPass.btnResetPassword_Click(System.Object,System.EventArgs)">
+ <summary>
+ event when click resetpassword
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

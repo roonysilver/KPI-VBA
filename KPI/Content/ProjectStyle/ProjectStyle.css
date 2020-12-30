@@ -1,0 +1,14 @@
+﻿@media only screen and (max-width: 600px) {
+    .button-click {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+        .button-click div {
+            margin-bottom: 2px;
+        }
+
+            .button-click div a {
+                margin-left: 0px !important;
+            }
+}

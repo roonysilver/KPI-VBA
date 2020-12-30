@@ -1,0 +1,1121 @@
+C:\Users\STB\source\repos\KPI\KPI\bin\KPI.dll.config
+C:\Users\STB\source\repos\KPI\KPI\bin\KPI.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\KPI.pdb
+C:\Users\STB\source\repos\KPI\KPI\bin\WebForms_Basic.xml
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\csc.exe
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\csc.exe.config
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\csc.rsp
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\csi.exe
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\csi.exe.config
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\csi.rsp
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.AppContext.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Console.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\vbc.exe
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\vbc.exe.config
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\vbc.rsp
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\STB\source\repos\KPI\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\STB\source\repos\KPI\KPI\bin\Antlr3.Runtime.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\Newtonsoft.Json.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\System.Web.Optimization.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\WebGrease.dll
+C:\Users\STB\source\repos\KPI\KPI\bin\System.Web.Optimization.xml
+C:\Users\STB\source\repos\KPI\KPI\bin\Newtonsoft.Json.xml
+C:\Users\STB\source\repos\KPI\KPI\bin\Antlr3.Runtime.pdb
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\STB\source\repos\KPI\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.Resources.resources
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.dll
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\WebForms_Basic.xml
+C:\Users\STB\source\repos\KPI\KPI\obj\Debug\KPI.pdb
+D:\vv_cuong\202010\Team\KPI\KPI\bin\KPI.dll.config
+D:\vv_cuong\202010\Team\KPI\KPI\bin\KPI.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\KPI.pdb
+D:\vv_cuong\202010\Team\KPI\KPI\bin\WebForms_Basic.xml
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Antlr3.Runtime.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\AspNet.ScriptManager.jQuery.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.Web.Infrastructure.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Newtonsoft.Json.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\System.Web.Optimization.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\WebGrease.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\System.Web.Optimization.xml
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Newtonsoft.Json.xml
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Antlr3.Runtime.pdb
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\vv_cuong\202010\Team\KPI\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.Resources.resources
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.dll
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\WebForms_Basic.xml
+D:\vv_cuong\202010\Team\KPI\KPI\obj\Debug\KPI.pdb
+C:\KPI_PROJECT\KPI\bin\KPI.dll.config
+C:\KPI_PROJECT\KPI\bin\KPI.dll
+C:\KPI_PROJECT\KPI\bin\KPI.pdb
+C:\KPI_PROJECT\KPI\bin\WebForms_Basic.xml
+C:\KPI_PROJECT\KPI\bin\roslyn\csc.exe
+C:\KPI_PROJECT\KPI\bin\roslyn\csc.exe.config
+C:\KPI_PROJECT\KPI\bin\roslyn\csc.rsp
+C:\KPI_PROJECT\KPI\bin\roslyn\csi.exe
+C:\KPI_PROJECT\KPI\bin\roslyn\csi.exe.config
+C:\KPI_PROJECT\KPI\bin\roslyn\csi.rsp
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPI_PROJECT\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPI_PROJECT\KPI\bin\roslyn\System.AppContext.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Console.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPI_PROJECT\KPI\bin\roslyn\vbc.exe
+C:\KPI_PROJECT\KPI\bin\roslyn\vbc.exe.config
+C:\KPI_PROJECT\KPI\bin\roslyn\vbc.rsp
+C:\KPI_PROJECT\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPI_PROJECT\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPI_PROJECT\KPI\bin\Antlr3.Runtime.dll
+C:\KPI_PROJECT\KPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\KPI_PROJECT\KPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\KPI_PROJECT\KPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\KPI_PROJECT\KPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\KPI_PROJECT\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\KPI_PROJECT\KPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\KPI_PROJECT\KPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\KPI_PROJECT\KPI\bin\Microsoft.Web.Infrastructure.dll
+C:\KPI_PROJECT\KPI\bin\Newtonsoft.Json.dll
+C:\KPI_PROJECT\KPI\bin\System.Web.Optimization.dll
+C:\KPI_PROJECT\KPI\bin\WebGrease.dll
+C:\KPI_PROJECT\KPI\bin\System.Web.Optimization.xml
+C:\KPI_PROJECT\KPI\bin\Newtonsoft.Json.xml
+C:\KPI_PROJECT\KPI\bin\Antlr3.Runtime.pdb
+C:\KPI_PROJECT\KPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\KPI_PROJECT\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.Resources.resources
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.dll
+C:\KPI_PROJECT\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPI_PROJECT\KPI\obj\Debug\KPI.pdb
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\csc.exe
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\csc.exe.config
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\csc.rsp
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\csi.exe
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\csi.exe.config
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\csi.rsp
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.AppContext.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Console.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.IO.Compression.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.Claims.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.ValueTuple.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\vbc.exe
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\vbc.exe.config
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\vbc.rsp
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\VBCSCompiler.exe
+D:\vv_cuong\202010\Team\KPI\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIPROJECT\KPI\bin\KPI.dll.config
+C:\KPIPROJECT\KPI\bin\KPI.dll
+C:\KPIPROJECT\KPI\bin\KPI.pdb
+C:\KPIPROJECT\KPI\bin\WebForms_Basic.xml
+C:\KPIPROJECT\KPI\bin\roslyn\csc.exe
+C:\KPIPROJECT\KPI\bin\roslyn\csc.exe.config
+C:\KPIPROJECT\KPI\bin\roslyn\csc.rsp
+C:\KPIPROJECT\KPI\bin\roslyn\csi.exe
+C:\KPIPROJECT\KPI\bin\roslyn\csi.exe.config
+C:\KPIPROJECT\KPI\bin\roslyn\csi.rsp
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIPROJECT\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIPROJECT\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Console.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIPROJECT\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIPROJECT\KPI\bin\roslyn\vbc.exe
+C:\KPIPROJECT\KPI\bin\roslyn\vbc.exe.config
+C:\KPIPROJECT\KPI\bin\roslyn\vbc.rsp
+C:\KPIPROJECT\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIPROJECT\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIPROJECT\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIPROJECT\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIPROJECT\KPI\obj\Debug\KPI.dll
+C:\KPIPROJECT\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIPROJECT\KPI\obj\Debug\KPI.pdb
+D:\KPI\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\KPI\KPI\obj\Debug\KPI.Resources.resources
+D:\KPI\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\KPI\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\KPI\KPI\obj\Debug\KPI.dll
+D:\KPI\KPI\obj\Debug\WebForms_Basic.xml
+D:\KPI\KPI\obj\Debug\KPI.pdb
+D:\KPI\KPI\bin\KPI.dll.config
+D:\KPI\KPI\bin\KPI.dll
+D:\KPI\KPI\bin\KPI.pdb
+D:\KPI\KPI\bin\WebForms_Basic.xml
+D:\KPI\KPI\bin\roslyn\csc.exe
+D:\KPI\KPI\bin\roslyn\csc.exe.config
+D:\KPI\KPI\bin\roslyn\csc.rsp
+D:\KPI\KPI\bin\roslyn\csi.exe
+D:\KPI\KPI\bin\roslyn\csi.exe.config
+D:\KPI\KPI\bin\roslyn\csi.rsp
+D:\KPI\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KPI\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KPI\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KPI\KPI\bin\roslyn\System.AppContext.dll
+D:\KPI\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\KPI\KPI\bin\roslyn\System.Console.dll
+D:\KPI\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KPI\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KPI\KPI\bin\roslyn\System.IO.Compression.dll
+D:\KPI\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\KPI\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KPI\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\KPI\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\KPI\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\KPI\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\KPI\KPI\bin\roslyn\System.Security.Claims.dll
+D:\KPI\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KPI\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KPI\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KPI\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KPI\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\KPI\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KPI\KPI\bin\roslyn\System.ValueTuple.dll
+D:\KPI\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KPI\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KPI\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\KPI\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KPI\KPI\bin\roslyn\vbc.exe
+D:\KPI\KPI\bin\roslyn\vbc.exe.config
+D:\KPI\KPI\bin\roslyn\vbc.rsp
+D:\KPI\KPI\bin\roslyn\VBCSCompiler.exe
+D:\KPI\KPI\bin\roslyn\VBCSCompiler.exe.config
+D:\KPI\KPI\bin\Antlr3.Runtime.dll
+D:\KPI\KPI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\KPI\KPI\bin\AspNet.ScriptManager.jQuery.dll
+D:\KPI\KPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\KPI\KPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\KPI\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KPI\KPI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\KPI\KPI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\KPI\KPI\bin\Microsoft.Web.Infrastructure.dll
+D:\KPI\KPI\bin\Newtonsoft.Json.dll
+D:\KPI\KPI\bin\System.Web.Optimization.dll
+D:\KPI\KPI\bin\WebGrease.dll
+D:\KPI\KPI\bin\System.Web.Optimization.xml
+D:\KPI\KPI\bin\Newtonsoft.Json.xml
+D:\KPI\KPI\bin\Antlr3.Runtime.pdb
+D:\KPI\KPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\KPI\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KPI\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\KPI.dll.config
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\KPI.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\csc.exe
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\csc.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\csc.rsp
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\csi.exe
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\csi.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\csi.rsp
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.AppContext.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Console.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.IO.Compression.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.Claims.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.ValueTuple.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\vbc.exe
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\vbc.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\vbc.rsp
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\VBCSCompiler.exe
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.Resources.resources
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.pdb
+C:\KPIPR\KPI\bin\KPI.dll.config
+C:\KPIPR\KPI\bin\KPI.dll
+C:\KPIPR\KPI\bin\KPI.pdb
+C:\KPIPR\KPI\bin\WebForms_Basic.xml
+C:\KPIPR\KPI\bin\roslyn\csc.exe
+C:\KPIPR\KPI\bin\roslyn\csc.exe.config
+C:\KPIPR\KPI\bin\roslyn\csc.rsp
+C:\KPIPR\KPI\bin\roslyn\csi.exe
+C:\KPIPR\KPI\bin\roslyn\csi.exe.config
+C:\KPIPR\KPI\bin\roslyn\csi.rsp
+C:\KPIPR\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIPR\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIPR\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIPR\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIPR\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIPR\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIPR\KPI\bin\roslyn\System.Console.dll
+C:\KPIPR\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIPR\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIPR\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIPR\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIPR\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIPR\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIPR\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIPR\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIPR\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIPR\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIPR\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIPR\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIPR\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIPR\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIPR\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIPR\KPI\bin\roslyn\vbc.exe
+C:\KPIPR\KPI\bin\roslyn\vbc.exe.config
+C:\KPIPR\KPI\bin\roslyn\vbc.rsp
+C:\KPIPR\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIPR\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIPR\KPI\bin\Antlr3.Runtime.dll
+C:\KPIPR\KPI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\KPIPR\KPI\bin\AspNet.ScriptManager.jQuery.dll
+C:\KPIPR\KPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\KPIPR\KPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\KPIPR\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\KPIPR\KPI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\KPIPR\KPI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\KPIPR\KPI\bin\Microsoft.Web.Infrastructure.dll
+C:\KPIPR\KPI\bin\Newtonsoft.Json.dll
+C:\KPIPR\KPI\bin\System.Web.Optimization.dll
+C:\KPIPR\KPI\bin\WebGrease.dll
+C:\KPIPR\KPI\bin\System.Web.Optimization.xml
+C:\KPIPR\KPI\bin\Newtonsoft.Json.xml
+C:\KPIPR\KPI\bin\Antlr3.Runtime.pdb
+C:\KPIPR\KPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\KPIPR\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\KPIPR\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIPR\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIPR\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIPR\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIPR\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIPR\KPI\obj\Debug\KPI.dll
+C:\KPIPR\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIPR\KPI\obj\Debug\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\KPI.dll.config
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\KPI.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\csc.exe
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\csc.exe.config
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\csc.rsp
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\csi.exe
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\csi.exe.config
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\csi.rsp
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.AppContext.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Console.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.IO.Compression.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.Claims.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.ValueTuple.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\vbc.exe
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\vbc.exe.config
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\vbc.rsp
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\VBCSCompiler.exe
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Antlr3.Runtime.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\AspNet.ScriptManager.jQuery.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Newtonsoft.Json.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\System.Web.Optimization.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\WebGrease.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\System.Web.Optimization.xml
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Newtonsoft.Json.xml
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Antlr3.Runtime.pdb
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Tranning_OJT\10-12M\Src\Team\KPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.Resources.resources
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.dll
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\Team\KPI\obj\Debug\KPI.pdb
+D:\KPIPROJECT\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\KPIPROJECT\KPI\obj\Debug\KPI.Resources.resources
+D:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\KPIPROJECT\KPI\obj\Debug\KPI.dll
+D:\KPIPROJECT\KPI\obj\Debug\WebForms_Basic.xml
+D:\KPIPROJECT\KPI\obj\Debug\KPI.pdb
+D:\KPIPROJECT\KPI\bin\KPI.dll.config
+D:\KPIPROJECT\KPI\bin\KPI.dll
+D:\KPIPROJECT\KPI\bin\KPI.pdb
+D:\KPIPROJECT\KPI\bin\WebForms_Basic.xml
+D:\KPIPROJECT\KPI\bin\roslyn\csc.exe
+D:\KPIPROJECT\KPI\bin\roslyn\csc.exe.config
+D:\KPIPROJECT\KPI\bin\roslyn\csc.rsp
+D:\KPIPROJECT\KPI\bin\roslyn\csi.exe
+D:\KPIPROJECT\KPI\bin\roslyn\csi.exe.config
+D:\KPIPROJECT\KPI\bin\roslyn\csi.rsp
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KPIPROJECT\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KPIPROJECT\KPI\bin\roslyn\System.AppContext.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Console.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.IO.Compression.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.Claims.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.ValueTuple.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\KPIPROJECT\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KPIPROJECT\KPI\bin\roslyn\vbc.exe
+D:\KPIPROJECT\KPI\bin\roslyn\vbc.exe.config
+D:\KPIPROJECT\KPI\bin\roslyn\vbc.rsp
+D:\KPIPROJECT\KPI\bin\roslyn\VBCSCompiler.exe
+D:\KPIPROJECT\KPI\bin\roslyn\VBCSCompiler.exe.config
+D:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\KPI.dll.config
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\KPI.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\csc.exe
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\csc.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\csc.rsp
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\csi.exe
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\csi.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\csi.rsp
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.AppContext.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Console.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.IO.Compression.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.Claims.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.ValueTuple.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\vbc.exe
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\vbc.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\vbc.rsp
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\VBCSCompiler.exe
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.Resources.resources
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.pdb
+C:\KPIPROJECT\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIPROJECT\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+D:\KPIPROJECT\KPI\obj\Debug\Interop.ADODB.dll
+D:\KPIPROJECT\KPI\obj\Debug\Interop.CDO.dll
+D:\KPIPROJECT\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIPROJECT - Copy (2)\KPI\bin\KPI.dll.config
+C:\KPIPROJECT - Copy (2)\KPI\bin\KPI.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\KPI.pdb
+C:\KPIPROJECT - Copy (2)\KPI\bin\WebForms_Basic.xml
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\csc.exe
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\csc.exe.config
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\csc.rsp
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\csi.exe
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\csi.exe.config
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\csi.rsp
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Console.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\vbc.exe
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\vbc.exe.config
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\vbc.rsp
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIPROJECT - Copy (2)\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.dll
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIPROJECT - Copy (2)\KPI\obj\Debug\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\Interop.ADODB.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\Interop.CDO.dll
+D:\Tranning_OJT\10-12M\Src\KPI\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\Interop.ADODB.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\Interop.CDO.dll
+D:\Tranning_OJT\10-12M\Src\KPI - Copy\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIPROJECT - Copy\KPI\bin\KPI.dll.config
+C:\KPIPROJECT - Copy\KPI\bin\KPI.dll
+C:\KPIPROJECT - Copy\KPI\bin\KPI.pdb
+C:\KPIPROJECT - Copy\KPI\bin\WebForms_Basic.xml
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\csc.exe
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\csc.exe.config
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\csc.rsp
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\csi.exe
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\csi.exe.config
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\csi.rsp
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Console.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\vbc.exe
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\vbc.exe.config
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\vbc.rsp
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIPROJECT - Copy\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIPROJECT - Copy\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIPROJECT - Copy\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.dll
+C:\KPIPROJECT - Copy\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIPROJECT - Copy\KPI\obj\Debug\KPI.pdb
+C:\KPIPROJECT - Copy - Copy\KPI\bin\KPI.dll.config
+C:\KPIPROJECT - Copy - Copy\KPI\bin\KPI.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\KPI.pdb
+C:\KPIPROJECT - Copy - Copy\KPI\bin\WebForms_Basic.xml
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\csc.exe
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\csc.exe.config
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\csc.rsp
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\csi.exe
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\csi.exe.config
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\csi.rsp
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Console.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\vbc.exe
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\vbc.exe.config
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\vbc.rsp
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIPROJECT - Copy - Copy\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.dll
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIPROJECT - Copy - Copy\KPI\obj\Debug\KPI.pdb
+C:\KPIV1\KPI\bin\KPI.dll.config
+C:\KPIV1\KPI\bin\KPI.dll
+C:\KPIV1\KPI\bin\KPI.pdb
+C:\KPIV1\KPI\bin\WebForms_Basic.xml
+C:\KPIV1\KPI\bin\roslyn\csc.exe
+C:\KPIV1\KPI\bin\roslyn\csc.exe.config
+C:\KPIV1\KPI\bin\roslyn\csc.rsp
+C:\KPIV1\KPI\bin\roslyn\csi.exe
+C:\KPIV1\KPI\bin\roslyn\csi.exe.config
+C:\KPIV1\KPI\bin\roslyn\csi.rsp
+C:\KPIV1\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIV1\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIV1\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIV1\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIV1\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIV1\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIV1\KPI\bin\roslyn\System.Console.dll
+C:\KPIV1\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIV1\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIV1\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIV1\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIV1\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIV1\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIV1\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIV1\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIV1\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIV1\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIV1\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIV1\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIV1\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIV1\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIV1\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIV1\KPI\bin\roslyn\vbc.exe
+C:\KPIV1\KPI\bin\roslyn\vbc.exe.config
+C:\KPIV1\KPI\bin\roslyn\vbc.rsp
+C:\KPIV1\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIV1\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIV1\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIV1\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIV1\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIV1\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIV1\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIV1\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIV1\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIV1\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIV1\KPI\obj\Debug\KPI.dll
+C:\KPIV1\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIV1\KPI\obj\Debug\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\KPI.dll.config
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\KPI.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\KPI.pdb
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\csc.exe
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\csc.exe.config
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\csc.rsp
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\csi.exe
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\csi.exe.config
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\csi.rsp
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.AppContext.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Console.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.IO.Compression.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.IO.Pipes.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.Claims.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.ValueTuple.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Xml.XPath.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\vbc.exe
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\vbc.exe.config
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\vbc.rsp
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\VBCSCompiler.exe
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\Interop.ADODB.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\Interop.CDO.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.Resources.resources
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.vbproj.CopyComplete
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.dll
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\WebForms_Basic.xml
+D:\Tranning_OJT\10-12M\Src\TeamKPI\KPI\obj\Debug\KPI.pdb
+C:\KPIV1 - Copy\KPI\bin\KPI.dll.config
+C:\KPIV1 - Copy\KPI\bin\KPI.dll
+C:\KPIV1 - Copy\KPI\bin\KPI.pdb
+C:\KPIV1 - Copy\KPI\bin\WebForms_Basic.xml
+C:\KPIV1 - Copy\KPI\bin\roslyn\csc.exe
+C:\KPIV1 - Copy\KPI\bin\roslyn\csc.exe.config
+C:\KPIV1 - Copy\KPI\bin\roslyn\csc.rsp
+C:\KPIV1 - Copy\KPI\bin\roslyn\csi.exe
+C:\KPIV1 - Copy\KPI\bin\roslyn\csi.exe.config
+C:\KPIV1 - Copy\KPI\bin\roslyn\csi.rsp
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIV1 - Copy\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Console.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIV1 - Copy\KPI\bin\roslyn\vbc.exe
+C:\KPIV1 - Copy\KPI\bin\roslyn\vbc.exe.config
+C:\KPIV1 - Copy\KPI\bin\roslyn\vbc.rsp
+C:\KPIV1 - Copy\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIV1 - Copy\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIV1 - Copy\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIV1 - Copy\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.dll
+C:\KPIV1 - Copy\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIV1 - Copy\KPI\obj\Debug\KPI.pdb
+C:\KPIV2\KPI\bin\KPI.dll.config
+C:\KPIV2\KPI\bin\KPI.dll
+C:\KPIV2\KPI\bin\KPI.pdb
+C:\KPIV2\KPI\bin\WebForms_Basic.xml
+C:\KPIV2\KPI\bin\roslyn\csc.exe
+C:\KPIV2\KPI\bin\roslyn\csc.exe.config
+C:\KPIV2\KPI\bin\roslyn\csc.rsp
+C:\KPIV2\KPI\bin\roslyn\csi.exe
+C:\KPIV2\KPI\bin\roslyn\csi.exe.config
+C:\KPIV2\KPI\bin\roslyn\csi.rsp
+C:\KPIV2\KPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KPIV2\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\KPIV2\KPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\KPIV2\KPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KPIV2\KPI\bin\roslyn\System.AppContext.dll
+C:\KPIV2\KPI\bin\roslyn\System.Collections.Immutable.dll
+C:\KPIV2\KPI\bin\roslyn\System.Console.dll
+C:\KPIV2\KPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\KPIV2\KPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\KPIV2\KPI\bin\roslyn\System.IO.Compression.dll
+C:\KPIV2\KPI\bin\roslyn\System.IO.FileSystem.dll
+C:\KPIV2\KPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\KPIV2\KPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\KPIV2\KPI\bin\roslyn\System.IO.Pipes.dll
+C:\KPIV2\KPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.AccessControl.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.Claims.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\KPIV2\KPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\KPIV2\KPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\KPIV2\KPI\bin\roslyn\System.ValueTuple.dll
+C:\KPIV2\KPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\KPIV2\KPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\KPIV2\KPI\bin\roslyn\System.Xml.XPath.dll
+C:\KPIV2\KPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\KPIV2\KPI\bin\roslyn\vbc.exe
+C:\KPIV2\KPI\bin\roslyn\vbc.exe.config
+C:\KPIV2\KPI\bin\roslyn\vbc.rsp
+C:\KPIV2\KPI\bin\roslyn\VBCSCompiler.exe
+C:\KPIV2\KPI\bin\roslyn\VBCSCompiler.exe.config
+C:\KPIV2\KPI\obj\Debug\KPI.vbprojAssemblyReference.cache
+C:\KPIV2\KPI\obj\Debug\Interop.ADODB.dll
+C:\KPIV2\KPI\obj\Debug\Interop.CDO.dll
+C:\KPIV2\KPI\obj\Debug\KPI.vbproj.ResolveComReference.cache
+C:\KPIV2\KPI\obj\Debug\KPI.Resources.resources
+C:\KPIV2\KPI\obj\Debug\KPI.vbproj.GenerateResource.cache
+C:\KPIV2\KPI\obj\Debug\KPI.vbproj.CoreCompileInputs.cache
+C:\KPIV2\KPI\obj\Debug\KPI.vbproj.CopyComplete
+C:\KPIV2\KPI\obj\Debug\KPI.dll
+C:\KPIV2\KPI\obj\Debug\WebForms_Basic.xml
+C:\KPIV2\KPI\obj\Debug\KPI.pdb

@@ -1,0 +1,19 @@
+﻿@media only screen and (max-width: 600px) {
+    .formUser .form-group {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .button-click {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+        .button-click div {
+            margin-bottom: 2px;
+        }
+
+            .button-click div a {
+                margin-left: 0px !important;
+            }
+}

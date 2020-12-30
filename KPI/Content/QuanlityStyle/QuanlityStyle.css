@@ -1,0 +1,53 @@
+﻿
+.btnSearch {
+    margin-left: 2px;
+}
+
+.button_change_GUID {
+    color: #444242 !important;
+    padding-left: 2px;
+    text-decoration: none !important;
+}
+.text-overflow {
+/*    white-space: nowrap;*/
+/*    width: 100px;*/
+    max-height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.GUID {
+    display: none
+}
+@media only screen and (max-width: 600px) {
+    .formUser .form-group {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .button-click{
+        display:block;
+        width:100%;
+        margin:0 auto;
+    }
+        .button-click div {
+            margin-bottom: 2px;
+        }
+        .button-click div a {
+            margin-left: 0px !important;
+        }
+}
+
+/*.formUser .custom-checkbox.small label {
+    line-height: 1.5rem
+}
+
+.formUser .form-control-user {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: 1.5rem 1rem
+}
+
+.formUser .btn-user {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: .75rem 1rem
+}*/

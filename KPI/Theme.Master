@@ -1,0 +1,275 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Theme.Master.vb" Inherits="KPI.Theme" %>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head runat="server">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title><%: Page.Title %></title>
+
+    <!-- Custom fonts for this template-->
+    <link href="/Themes/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <%--    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">--%>
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2020.3.1021/styles/kendo.common.min.css" />
+    <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2020.3.1021/styles/kendo.office365.min.css" />
+    <script src="http://kendo.cdn.telerik.com/2020.3.1021/js/jquery.min.js"></script>
+    <!-- Custom styles for this template-->
+    <link href="/Themes/css/sb-admin-2.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/Themes/css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css" />
+</head>
+<body id="page-top">
+    <form runat="server">
+        <!-- Page Wrapper -->
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <ul class="navbar-nav left-bar sidebar sidebar-dark accordion" style="margin-top: 70px;" id="accordionSidebar">
+
+                <!-- Divider -->
+                <%--<hr class="sidebar-divider my-0">--%>
+                <div class="left-bar">
+                    <% If KPI.UserCookieData.GetUserData.RoleName = "Manager" Or KPI.UserCookieData.GetUserData.RoleName = "Admin" Then
+                    %>
+                    <%--<div class="text-center">
+                        <asp:Button ID="btnBack" runat="server" CssClass="btn_back_project" Text="戻る" />
+                    </div>--%>
+                    <li class="nav-item">
+                        <asp:LinkButton CssClass="nav-link" ID="lkbBack" runat="server">
+                            <i class="fas fa-home"></i>
+                            <span> 
+                                <asp:Literal ID="Literal3" runat="server" Text="<%$Resources:KPI.language, home%>"></asp:Literal></span>
+                        </asp:LinkButton>
+                    </li>
+                    <hr class="sidebar-divider">
+                    <%
+                        End If
+                    %>
+                    <%--<hr class="sidebar-divider">--%>
+                    <!-- Nav Item - Pages Collapse Menu -->
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Target">
+                            <i class="fas fa-fw fa-chart-area"></i>
+                            <span>
+                                <asp:Literal ID="Literal1" runat="server" Text="<%$Resources:KPI.language, target%>"></asp:Literal></span></a>
+                    </li>
+                    <hr class="sidebar-divider">
+                    <!-- Nav Item - Charts -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Quanlity">
+                            <i class="fas fa-fw fa-chart-pie"></i>
+                            <span>
+                                <asp:Literal ID="Literal2" runat="server" Text="<%$Resources:KPI.language, analysis%>"></asp:Literal></span></a>
+                    </li>
+                    <hr class="sidebar-divider">
+                    <!-- Hạng mục lỗi -->
+                    <% If KPI.UserCookieData.GetUserData.RoleName = "Leader" Or KPI.UserCookieData.GetUserData.RoleName = "Manager" Or KPI.UserCookieData.GetUserData.RoleName = "Admin" Then
+                    %>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Task">
+                            <i class="fas fa-fw fa fa-tasks"></i>
+                            <span>
+                                <asp:Literal ID="Literal4" runat="server" Text="<%$Resources:KPI.language, listRepair%>"></asp:Literal></span></a>
+                    </li>
+                    <hr class="sidebar-divider">
+                    <%
+                        End If %>
+                </div>
+
+            </ul>
+            <!-- End of Sidebar -->
+
+            <!-- Content Wrapper -->
+            <div id="content-wrapper" class="d-flex flex-column">
+                <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 fixed-top shadow">
+                    <a class="sidebar-brand d-flex align-items-center justify-content-center" style="width: 150px" href="/Target">
+                        <div class="sidebar-brand-text mx-3">
+                            <img src="/Themes/img/logo.png" width="100%" alt="" />
+                        </div>
+                    </a>
+                    <!-- Sidebar Toggle (Topbar) -->
+                    <div id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
+                        <i class="fa fa-bars"></i>
+                    </div>
+                    <!-- Topbar Navbar -->
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Nav Item - Language -->
+                        <li class="nav-item dropdown no-arrow mx-1 language" style="width: 80px; background-color: #f8f9fc">
+                            <asp:ImageButton ID="ImgbtnFlagJapan" runat="server" Height="25px" ImageUrl="/Themes/img/japan-flag.png" />
+                            <asp:ImageButton ID="ImgbtnFlagVn" runat="server" Height="25px" ImageUrl="/Themes/img/vi-flag.jpg" />
+                        </li>
+
+                        <div class="topbar-divider d-none d-sm-block"></div>
+                        <%
+                            Dim user As KPI.UserInfo = KPI.UserCookieData.GetUserData()
+                        %>
+                        <!-- Nav Item - User Information -->
+                        <li class="nav-item dropdown no-arrow">
+                            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="mr-2 d-lg-inline text-gray-600 small" style="font-size: 20px;"><%=user.FirstName + " " + user.LastName %></span>
+                            </a>
+                            <!-- Dropdown - User Information -->
+                            <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+                                <asp:HyperLink ID="hylInfo" runat="server" CssClass="dropdown-item" NavigateUrl="/Profile">
+                                    <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+                                    <asp:Literal ID="Literal5" runat="server" Text="<%$Resources:KPI.language, userInfo%>"></asp:Literal>
+                                </asp:HyperLink>
+                                <a class="dropdown-item" href="/ChangePassword">
+                                    <i class="fas fa-key fa-sm fa-fw mr-2 text-gray-400"></i>
+                                    <asp:Literal ID="Literal6" runat="server" Text="<%$Resources:KPI.language, changePass%>"></asp:Literal>
+                                </a>
+                                <div class="dropdown-divider"></div>
+                                <asp:LinkButton ID="lkbLogout" CssClass="dropdown-item" runat="server" CausesValidation="false">
+                                    <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                    <asp:Literal ID="Literal7" runat="server" Text="<%$Resources:KPI.language, logout%>"></asp:Literal>
+                                </asp:LinkButton>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                </nav>
+                <!-- Main Content -->
+                <div id="content">
+
+                    <!-- Topbar -->
+
+                    <!-- End of Topbar -->
+                    <div class="bread-Crumb" style="margin-top: 100px; margin-left: 10px; font-size: 20px; color: black">
+                        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="true" />
+                        <div style="display:flex; justify-content:space-between">
+                            <%
+                                Dim contentService As New KPI.ContentService
+                                Dim project As KPI.KPI_M_Project = contentService.GetProject(Session("idProject"))
+                            %>
+                            <asp:SiteMapPath ID="SiteMapPath1" runat="server" PathSeparator=" > " RenderCurrentNodeAsLink="false">
+                            </asp:SiteMapPath>
+                            <span class="mr-2 d-lg-inline text-gray-600 small" style="font-size: 25px; font-family: Times New Roman, Times, serif; padding-right:15px"><%=project.NameProject %></span>
+                        </div>
+
+                        <hr />
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    <!-- Begin Page Content -->
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                    <!-- /.container-fluid -->
+
+                </div>
+                <!-- End of Main Content -->
+
+                <!-- Footer -->
+                <footer class="sticky-footer bg-brown">
+                    <div class="container my-auto">
+                        <div class="copyright text-center my-auto" style="font-size: 20px; color: white;">
+                            <span>Copyright @ Brycen Vietnam Co., Ltd.</span>
+                        </div>
+                    </div>
+                </footer>
+                <!-- End of Footer -->
+
+            </div>
+            <!-- End of Content Wrapper -->
+
+        </div>
+        <!-- End of Page Wrapper -->
+
+        <!-- Scroll to Top Button-->
+        <a class="scroll-to-top rounded" href="#page-top">
+            <i class="fas fa-angle-up"></i>
+        </a>
+        <!-- Logout Modal-->
+        <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                        <a class="btn btn-primary" href="login.html">Logout</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <style>
+        .bread-Crumb span a {
+            text-decoration: none;
+            color: #7bbe35;
+        }
+    </style>
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="/Themes/vendor/jquery/jquery.min.js"></script>
+    <script src="/Themes/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="http://kendo.cdn.telerik.com/2020.3.1021/js/kendo.all.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="/Themes/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for all pages-->
+    <script src="/Themes/js/sb-admin-2.min.js"></script>
+
+</body>
+
+</html>
+<script>
+    var locationPath = window.location.pathname
+    //console.log($(".bread-Crumb a")[3].setAttribute("href", console.log($(".bread-Crumb a")[3].getAttribute("href"))+"?")
+    //show and hide left bar
+    //if (locationPath.toUpperCase().indexOf('/PROJECT') != -1) {
+    //    $('#accordionSidebar').hide()
+    //}
+    //get local country
+<%--    if ("<%=Session("lang")%>" == "") {
+        $.ajax({
+            url: "http://ip-api.com/json/",
+            type: "GET",
+            success: function (e) {
+                console.log(e)
+                if (e.countryCode == "VN") {
+                    <%Session("lang") = "vi"%>
+                } else {
+                    <%Session("lang") = "ja"%>
+                }
+            }
+        })
+    }--%>
+
+    if (locationPath.toUpperCase().indexOf('/ERRORANALYSIS') != -1) {
+        try {
+            //console.log($(".bread-Crumb a")[3].getAttribute("href"))
+            $(".bread-Crumb a")[3].setAttribute("href", $(".bread-Crumb a")[3].getAttribute("href") + "?id=" + window.location.search.split("=")[window.location.search.split("=").length - 1])
+        }
+        catch{
+
+        }
+    }
+    var sessionLang ="<%=Session("lang")%>";
+    if (sessionLang == 'vi') {
+        $("#ImgbtnFlagVn").css("border", "2px solid")
+    }
+    else {
+        $("#ImgbtnFlagJapan").css("border", "2px solid")
+    }
+    function KeepSessionAlive() {
+        // 1. Make request to server
+        $.post("/KeepAlive.aspx");
+        // 2. Schedule new request after 60000 miliseconds (1 minute)
+        setTimeout(KeepSessionAlive, 30000);
+    }
+    KeepSessionAlive()
+</script>

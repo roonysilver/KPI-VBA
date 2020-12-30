@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="accept" xml:space="preserve">
+    <value>Xác nhận・Quay lại</value>
+  </data>
+  <data name="analysis" xml:space="preserve">
+    <value>Phân tích chất lượng</value>
+  </data>
+  <data name="average" xml:space="preserve">
+    <value>Giá trị chỉ mục (giá trị trung bình)</value>
+  </data>
+  <data name="BRCaccept" xml:space="preserve">
+    <value>Chấp nhận ở BRC</value>
+  </data>
+  <data name="btnAdd" xml:space="preserve">
+    <value>Thêm</value>
+  </data>
+  <data name="btnAddError" xml:space="preserve">
+    <value>Thêm phân loại lỗi</value>
+  </data>
+  <data name="btnAddTask" xml:space="preserve">
+    <value>Thêm Công Việc</value>
+  </data>
+  <data name="btnCfmContinue" xml:space="preserve">
+    <value>Xác nhận・Tiếp tục</value>
+  </data>
+  <data name="btnCfmReturn" xml:space="preserve">
+    <value>Xác nhận・Quay lại</value>
+  </data>
+  <data name="btnCSV" xml:space="preserve">
+    <value>Tải CSV</value>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>Xóa</value>
+  </data>
+  <data name="btnEdit" xml:space="preserve">
+    <value>Sửa</value>
+  </data>
+  <data name="btnDetail" xml:space="preserve">
+    <value>Chi tiết</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Hủy bỏ</value>
+  </data>
+  <data name="cardheaderTarget" xml:space="preserve">
+    <value>Mục tiêu chất lượng</value>
+  </data>
+  <data name="carHeader" xml:space="preserve">
+    <value>Dự án</value>
+  </data>
+  <data name="carHeaderAddProject" xml:space="preserve">
+    <value>Thêm dự án</value>
+  </data>
+  <data name="carHeaderEditProject" xml:space="preserve">
+    <value>Chỉnh sửa dự án</value>
+  </data>
+  <data name="changePass" xml:space="preserve">
+    <value>Đổi mật khẩu</value>
+  </data>
+  <data name="clmAction" xml:space="preserve">
+    <value>Thao tác</value>
+  </data>
+  <data name="clmCreateAt" xml:space="preserve">
+    <value>Thời gian tạo</value>
+  </data>
+  <data name="clmDP" xml:space="preserve">
+    <value>Bộ phận</value>
+  </data>
+  <data name="clmLeader" xml:space="preserve">
+    <value>Trưởng nhóm</value>
+  </data>
+  <data name="clmLevel" xml:space="preserve">
+    <value>Mức độ</value>
+  </data>
+  <data name="clmMember" xml:space="preserve">
+    <value>Thành viên dự án</value>
+  </data>
+  <data name="clmNP" xml:space="preserve">
+    <value>Tên dự án</value>
+  </data>
+  <data name="clmNum" xml:space="preserve">
+    <value>STT</value>
+  </data>
+  <data name="codePhase" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="clmTask" xml:space="preserve">
+    <value>Nhiệm vụ</value>
+  </data>
+  <data name="clmUser" xml:space="preserve">
+    <value>Người phụ trách</value>
+  </data>
+  <data name="confCkDelete" xml:space="preserve">
+    <value>Chọn dự án muốn xóa!</value>
+  </data>
+  <data name="confDelete" xml:space="preserve">
+    <value>Bạn có thực muốn xóa không, sau khi xóa không thể hoàn tác được ?</value>
+  </data>
+  <data name="csv" xml:space="preserve">
+    <value>Tải file CSV</value>
+  </data>
+  <data name="designPhase" xml:space="preserve">
+    <value>Thiết kế</value>
+  </data>
+  <data name="demo" xml:space="preserve">
+    <value>dsdsds</value>
+  </data>
+  <data name="empData" xml:space="preserve">
+    <value>Không tìm thấy dữ liệu !</value>
+  </data>
+  <data name="errorNullData" xml:space="preserve">
+    <value>Vui lòng không để trống !</value>
+  </data>
+  <data name="errorNullMember" xml:space="preserve">
+    <value>Vui lòng chọn thành viên dự án !</value>
+  </data>
+  <data name="errorNullProject" xml:space="preserve">
+    <value>Vui lòng nhập dự án !</value>
+  </data>
+  <data name="errorRateOnCode" xml:space="preserve">
+    <value>Tỷ lệ lỗi trên số công code</value>
+  </data>
+  <data name="errorRateOndesign" xml:space="preserve">
+    <value>Tỷ lệ lỗi trên số công thiết kế</value>
+  </data>
+  <data name="errorRateOndesign-test" xml:space="preserve">
+    <value>Tỉ lệ lỗi trên số công từ khi thiết kế ~ Test</value>
+  </data>
+  <data name="errorRateOnTest" xml:space="preserve">
+    <value>Tỷ lệ lỗi trên số công test</value>
+  </data>
+  <data name="holderMemberSelect" xml:space="preserve">
+    <value>---Vui lòng chọn thành viên dự án ---</value>
+  </data>
+  <data name="home" xml:space="preserve">
+    <value>Trang chủ</value>
+  </data>
+  <data name="listRepair" xml:space="preserve">
+    <value>Hạng mục lỗi review</value>
+  </data>
+  <data name="logout" xml:space="preserve">
+    <value>Đăng xuất</value>
+  </data>
+  <data name="majorAccept" xml:space="preserve">
+    <value>Chấp nhận ở phía nghiệp vụ</value>
+  </data>
+  <data name="menu" xml:space="preserve">
+    <value>Chỉ tiêu</value>
+  </data>
+  <data name="OSCaccept" xml:space="preserve">
+    <value>Chấp nhận ở khách hàng OSC</value>
+  </data>
+  <data name="phase" xml:space="preserve">
+    <value>Giai đoạn</value>
+  </data>
+  <data name="phdLevel" xml:space="preserve">
+    <value>--Xin hãy chọn cấp độ--</value>
+  </data>
+  <data name="phdTask" xml:space="preserve">
+    <value>--Xin hãy nhập nhiệm vụ--</value>
+  </data>
+  <data name="phdUser" xml:space="preserve">
+    <value>--Xin hãy chọn người phụ trách--</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="target" xml:space="preserve">
+    <value>Mục tiêu chất lượng</value>
+  </data>
+  <data name="testPhase" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="tolerance" xml:space="preserve">
+    <value>Giá trị chỉ mục (phạm vi trung bình)</value>
+  </data>
+  <data name="userInfo" xml:space="preserve">
+    <value>Thông tin nhân viên</value>
+  </data>
+  <data name="taskHeader" xml:space="preserve">
+    <value>Danh Sách Công Việc</value>
+  </data>
+  <data name="btnBack" xml:space="preserve">
+    <value>Quay lại</value>
+  </data>
+  <data name="clmBug" xml:space="preserve">
+    <value>Lỗi ・ số lượng bug</value>
+  </data>
+  <data name="clmErrorAnalysis" xml:space="preserve">
+    <value>Hạng mục lỗi review ・Phân loại bug</value>
+  </data>
+  <data name="clmPhase" xml:space="preserve">
+    <value>Công đoạn</value>
+  </data>
+  <data name="clmReference" xml:space="preserve">
+    <value>Tham khảo</value>
+  </data>
+  <data name="taskHeaderAdd" xml:space="preserve">
+    <value>Thêm mới Công Việc</value>
+  </data>
+  <data name="taskHeaderEdit" xml:space="preserve">
+    <value>Chỉnh sửa Công Việc</value>
+  </data>
+  <data name="titleErrorAnalysis" xml:space="preserve">
+    <value>Hạng mục lỗi review ・bảng phân loại lỗi và phân tích</value>
+  </data>
+  <data name="reason" xml:space="preserve">
+    <value>Có ★: Phân tích nguyên nhân của vấn đề, phương thức cải tiến v.v&lt;/br&gt;
+Không ★: Phân tích nguyên nhân thành công, phương thức mở rộng, lan truyền v.v</value>
+  </data>
+  <data name="errorAnalysis" xml:space="preserve">
+    <value>Nhiệm vụ</value>
+  </data>
+  <data name="errorHeaderAdd" xml:space="preserve">
+    <value>Thêm mới Lỗi</value>
+  </data>
+  <data name="errorHeaderEdit" xml:space="preserve">
+    <value>Sửa lỗi phân tích</value>
+  </data>
+  <data name="phdBug" xml:space="preserve">
+    <value>--Nhập số lượng lỗi--</value>
+  </data>
+  <data name="phdError" xml:space="preserve">
+    <value>--Chọn hạng mục lỗi--</value>
+  </data>
+  <data name="phdPhase" xml:space="preserve">
+    <value>--Chọn công đoạn--</value>
+  </data>
+  <data name="phdReference" xml:space="preserve">
+    <value>--Nhập Tham khảo--</value>
+  </data>
+  <data name="phdTaskk" xml:space="preserve">
+    <value>--Xin chọn Nhiệm Vụ--</value>
+  </data>
+  <data name="accepMajor" xml:space="preserve">
+    <value>Lỗi khi chấp nhận ở phía nghiệp vụ</value>
+  </data>
+  <data name="detailTarget" xml:space="preserve">
+    <value>Chi tiết</value>
+  </data>
+  <data name="errorAcceptBRC" xml:space="preserve">
+    <value>Lỗi chấp nhận ở BRC</value>
+  </data>
+  <data name="errorAcceptOSC" xml:space="preserve">
+    <value>Lỗi khi chấp nhận ở khách hàng OSC</value>
+  </data>
+  <data name="errorRateOnJob" xml:space="preserve">
+    <value>Tỉ lệ lỗi trên số công</value>
+  </data>
+  <data name="errorReview" xml:space="preserve">
+    <value>Lỗi review</value>
+  </data>
+  <data name="numBug" xml:space="preserve">
+    <value>Số lượng bug</value>
+  </data>
+  <data name="numJob" xml:space="preserve">
+    <value>Số công</value>
+  </data>
+  <data name="numJobDesignText" xml:space="preserve">
+    <value>Số công
+(Thiết kế~ Test)</value>
+  </data>
+  <data name="numTest" xml:space="preserve">
+    <value>Số lượng mục test</value>
+  </data>
+  <data name="rateBugHit" xml:space="preserve">
+    <value>Tỉ lệ bug hit</value>
+  </data>
+  <data name="yesNoOverStand" xml:space="preserve">
+    <value>Có/không vượt quá giá trị tiêu chuẩn</value>
+  </data>
+  <data name="address" xml:space="preserve">
+    <value>Địa chỉ</value>
+  </data>
+  <data name="birthDate" xml:space="preserve">
+    <value>Ngày sinh</value>
+  </data>
+  <data name="conternt" xml:space="preserve">
+    <value>Nội dung</value>
+  </data>
+  <data name="detailContent" xml:space="preserve">
+    <value>Chi tiết</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="holderNewPass" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu mới</value>
+  </data>
+  <data name="holderOldPass" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu</value>
+  </data>
+  <data name="holderRetypeNewPass" xml:space="preserve">
+    <value>Vui lòng nhập lại mật khẩu mới</value>
+  </data>
+  <data name="infouser" xml:space="preserve">
+    <value>Thông tin người dùng</value>
+  </data>
+  <data name="newPass" xml:space="preserve">
+    <value>Mật khẩu mới</value>
+  </data>
+  <data name="numberPhane" xml:space="preserve">
+    <value>Số điện thoại</value>
+  </data>
+  <data name="oldPass" xml:space="preserve">
+    <value>Mật khẩu hiện tại</value>
+  </data>
+  <data name="passANotdetail" xml:space="preserve">
+    <value>Mật khẩu bạn đã nhập không chinhs xác</value>
+  </data>
+  <data name="passDiffrent" xml:space="preserve">
+    <value>Mật khẩu không khớp với mật khẩu xác nhận</value>
+  </data>
+  <data name="retypeNewPass" xml:space="preserve">
+    <value>Mật khẩu mới (xác nhận)</value>
+  </data>
+  <data name="targetCode" xml:space="preserve">
+    <value>Số công (code)</value>
+  </data>
+  <data name="targetDesign" xml:space="preserve">
+    <value>Số công (thiết kế)</value>
+  </data>
+  <data name="targetTest" xml:space="preserve">
+    <value>Số lượng mục test (test)</value>
+  </data>
+  <data name="usename" xml:space="preserve">
+    <value>User name</value>
+  </data>
+  <data name="errorLoginFail" xml:space="preserve">
+    <value>Người dùng hoặc mật khẩu dường như không chính xác. Vui lòng nhập lại !</value>
+  </data>
+  <data name="errorLoginFailOver" xml:space="preserve">
+    <value>Người dùng hoặc mật khẩu đã không được nhập chính xác ba lần. Người dùng đã bị khóa. Nhấp vào "Quên mật khẩu của bạn?" !</value>
+  </data>
+  <data name="login" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="noData" xml:space="preserve">
+    <value>Vui lòng nhập !</value>
+  </data>
+  <data name="noProject" xml:space="preserve">
+    <value>Không có dự án nào dành cho bạn</value>
+  </data>
+  <data name="capchaError" xml:space="preserve">
+    <value>Vui lòng kiểm tra lại captcha</value>
+  </data>
+  <data name="emailNotDetail" xml:space="preserve">
+    <value>Địa chỉ email không tồn tại !</value>
+  </data>
+  <data name="emaiSendFinish" xml:space="preserve">
+    <value>Một email đặt lại mật khẩu đã được gửi. Vui lòng kiểm tra trong 5 phút. Sau 5 phút, email sẽ bị hủy.</value>
+  </data>
+  <data name="forGotPassword" xml:space="preserve">
+    <value>Quên mật khẩu</value>
+  </data>
+  <data name="passWord" xml:space="preserve">
+    <value>Mật khẩu</value>
+  </data>
+  <data name="retypePassword" xml:space="preserve">
+    <value>Mật khẩu (xác nhận)</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>Gửi</value>
+  </data>
+  <data name="setPassword" xml:space="preserve">
+    <value>Đặt lại mật khẩu</value>
+  </data>
+  <data name="confDownload" xml:space="preserve">
+    <value>Bạn có muốn tải xuống tệp này không?</value>
+  </data>
+  <data name="reasonCSV" xml:space="preserve">
+    <value>Có ★: Phân tích nguyên nhân của vấn đề, phương thức cải tiến v.v
+Không ★: Phân tích nguyên nhân thành công, phương thức mở rộng, lan truyền v.v</value>
+  </data>
+  <data name="editQuanlity" xml:space="preserve">
+    <value>Chỉnh sửa</value>
+  </data>
+  <data name="btnChange" xml:space="preserve">
+    <value>Thay đổi</value>
+  </data>
+  <data name="noDataID" xml:space="preserve">
+    <value>Bạn cần phải nhập vào ID người dùng</value>
+  </data>
+  <data name="noDatapass" xml:space="preserve">
+    <value>Bạn cần nhập vào mât khẩu</value>
+  </data>
+  <data name="ErrorOverEight" xml:space="preserve">
+    <value>Vui lòng nhập mật khẩu có 8 ký tự trở xuống !</value>
+  </data>
+  <data name="ChangeDataFail" xml:space="preserve">
+    <value>Thay đổi dữ liệu thất bại !</value>
+  </data>
+  <data name="ChangeDataSucces" xml:space="preserve">
+    <value>Thay đổi dữ liệu thành công !</value>
+  </data>
+</root>

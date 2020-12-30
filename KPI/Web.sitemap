@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Project" title="Dự án"  description="Home page" >
+    <siteMapNode url="/" title="Mục tiêu chất lượng"  description="Target page" />
+    <siteMapNode url="Target" title="Mục tiêu chất lượng"  description="Target page" />
+    <siteMapNode url="Quanlity" title="Phân tích chất lượng"  description="Quanlity Page">
+      <siteMapNode url ="Quanlity/Detail" title="Chi tiết"  description="Detail Page" />
+      <siteMapNode url ="Quanlity/Edit" title="Chỉnh sửa"  description="Detail Page" />
+    </siteMapNode>
+    <siteMapNode url="Task" title="Danh Sách Công Việc"  description="Task Page">
+      <siteMapNode url ="ErrorAnalysis/Create" title="Thêm mới lỗi"  description="Modify Page" />
+      <siteMapNode url ="Task/Add" title="Thêm mới Công Việc"  description="Modify Page" />
+      <siteMapNode url ="Task/Edit" title="Chỉnh sửa Công Việc"  description="Modify Page" />
+      <siteMapNode url="ErrorAnalysis" title="Hạng mục lỗi review ・bảng phân loại lỗi và phân tích"  description="ErrorAnalysis Page">
+        <siteMapNode url ="ErrorAnalysis/Add" title="Thêm lỗi phân tích"  description="Modify Page" />
+        <siteMapNode url ="ErrorAnalysis/Edit" title="Sửa lỗi phân tích"  description="Modify Page" />
+      </siteMapNode>
+    </siteMapNode>
+      <siteMapNode url ="Project/Edit" title="Chỉnh sửa dự án"  description="Edit Page" />
+      <siteMapNode url ="Project/Add" title="Thêm dự án"  description="Add Page" />
+  </siteMapNode>
+</siteMap>
+
+<!--<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Project" title="Home"  description="Home page" >
+    <siteMapNode url="/" title="Target"  description="Target page" />
+    <siteMapNode url="Target" title="Target"  description="Target page" />
+    <siteMapNode url="Quanlity" title="Quanlity"  description="Quanlity Page">
+      <siteMapNode url ="Quanlity/Detail" title="Detail"  description="Detail Page" />
+      <siteMapNode url ="Quanlity/Edit" title="Edit"  description="Detail Page" />
+    </siteMapNode>
+    <siteMapNode url="Task" title="Task"  description="Task Page">
+      <siteMapNode url ="ErrorAnalysis/Create" title="Create ErrorAnalysis"  description="Modify Page" />
+      <siteMapNode url ="Task/Add" title="Add"  description="Modify Page" />
+      <siteMapNode url ="Task/Edit" title="Edit"  description="Modify Page" />
+      <siteMapNode url="ErrorAnalysis" title="ErrorAnalysis"  description="ErrorAnalysis Page">
+        <siteMapNode url ="ErrorAnalysis/Add" title="Add"  description="Modify Page" />
+        <siteMapNode url ="ErrorAnalysis/Edit" title="Edit"  description="Modify Page" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url ="Project/Edit" title="EditProject"  description="Edit Page" />
+    <siteMapNode url ="Project/Add" title="AddProject"  description="Add Page" />
+  </siteMapNode>
+</siteMap>-->

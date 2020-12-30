@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="accept" xml:space="preserve">
+    <value>登録・閉じる</value>
+  </data>
+  <data name="analysis" xml:space="preserve">
+    <value>品質分析表</value>
+  </data>
+  <data name="average" xml:space="preserve">
+    <value>指標値 (平均値)</value>
+  </data>
+  <data name="BRCaccept" xml:space="preserve">
+    <value>BRC内部受入</value>
+  </data>
+  <data name="btnAdd" xml:space="preserve">
+    <value>追加</value>
+  </data>
+  <data name="btnAddError" xml:space="preserve">
+    <value>改修のレビューの追加</value>
+  </data>
+  <data name="btnAddTask" xml:space="preserve">
+    <value>改修の追加</value>
+  </data>
+  <data name="btnCfmContinue" xml:space="preserve">
+    <value>登録・継続</value>
+  </data>
+  <data name="btnCfmReturn" xml:space="preserve">
+    <value>登録・閉じる</value>
+  </data>
+  <data name="btnCSV" xml:space="preserve">
+    <value>CSV出力</value>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="btnEdit" xml:space="preserve">
+    <value>編集</value>
+  </data>
+  <data name="btnDetail" xml:space="preserve">
+    <value>詳細</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="cardheaderTarget" xml:space="preserve">
+    <value>品質指標値</value>
+  </data>
+  <data name="carHeader" xml:space="preserve">
+    <value>プロジェクト</value>
+  </data>
+  <data name="carHeaderAddProject" xml:space="preserve">
+    <value>プロジェクトの追加</value>
+  </data>
+  <data name="carHeaderEditProject" xml:space="preserve">
+    <value>プロジェクトの編集</value>
+  </data>
+  <data name="changePass" xml:space="preserve">
+    <value>パスワードの変更</value>
+  </data>
+  <data name="clmAction" xml:space="preserve">
+    <value>アクション</value>
+  </data>
+  <data name="clmCreateAt" xml:space="preserve">
+    <value>作成日</value>
+  </data>
+  <data name="clmDP" xml:space="preserve">
+    <value>部門</value>
+  </data>
+  <data name="clmLeader" xml:space="preserve">
+    <value>担当者・リーダー</value>
+  </data>
+  <data name="clmLevel" xml:space="preserve">
+    <value>難易度</value>
+  </data>
+  <data name="clmMember" xml:space="preserve">
+    <value>メンバー</value>
+  </data>
+  <data name="clmNP" xml:space="preserve">
+    <value>プロジェクト</value>
+  </data>
+  <data name="clmNum" xml:space="preserve">
+    <value>項番</value>
+  </data>
+  <data name="codePhase" xml:space="preserve">
+    <value>製造</value>
+  </data>
+  <data name="clmTask" xml:space="preserve">
+    <value>改修内容</value>
+  </data>
+  <data name="clmUser" xml:space="preserve">
+    <value>改修マイン担当</value>
+  </data>
+  <data name="confCkDelete" xml:space="preserve">
+    <value>削除プロジェクトを選択してください。</value>
+  </data>
+  <data name="confDelete" xml:space="preserve">
+    <value>このプロジェクトを本当に削除しますか？削除後は元に戻すことはできません。</value>
+  </data>
+  <data name="csv" xml:space="preserve">
+    <value>CSV出力</value>
+  </data>
+  <data name="designPhase" xml:space="preserve">
+    <value>設計</value>
+  </data>
+  <data name="demo" xml:space="preserve">
+    <value>cdcdfv</value>
+  </data>
+  <data name="empData" xml:space="preserve">
+    <value>何もデータが見つかりませんでした！</value>
+  </data>
+  <data name="errorNullData" xml:space="preserve">
+    <value>入力してください！</value>
+  </data>
+  <data name="errorNullMember" xml:space="preserve">
+    <value>プロジェクトのメンバーを選択してください。!</value>
+  </data>
+  <data name="errorNullProject" xml:space="preserve">
+    <value>プロジェク入力してください！</value>
+  </data>
+  <data name="errorRateOnCode" xml:space="preserve">
+    <value>製造工数に対する指摘率</value>
+  </data>
+  <data name="errorRateOndesign" xml:space="preserve">
+    <value>設計工数に対する指摘率</value>
+  </data>
+  <data name="errorRateOndesign-test" xml:space="preserve">
+    <value>設計～テストまでの工数に対する指摘率</value>
+  </data>
+  <data name="errorRateOnTest" xml:space="preserve">
+    <value>テスト時のバグヒット率</value>
+  </data>
+  <data name="holderMemberSelect" xml:space="preserve">
+    <value>---プロジェクトのメンバーを選択してください。---</value>
+  </data>
+  <data name="home" xml:space="preserve">
+    <value>ホーム</value>
+  </data>
+  <data name="listRepair" xml:space="preserve">
+    <value>改修一覧</value>
+  </data>
+  <data name="logout" xml:space="preserve">
+    <value>ログアウト</value>
+  </data>
+  <data name="majorAccept" xml:space="preserve">
+    <value>業務側受入(リリース後含む)</value>
+  </data>
+  <data name="menu" xml:space="preserve">
+    <value>指標</value>
+  </data>
+  <data name="OSCaccept" xml:space="preserve">
+    <value>OSC様受入</value>
+  </data>
+  <data name="phase" xml:space="preserve">
+    <value>フェーズ</value>
+  </data>
+  <data name="phdLevel" xml:space="preserve">
+    <value>--レベルを選択してください--</value>
+  </data>
+  <data name="phdTask" xml:space="preserve">
+    <value>--改修内容を入力してください--</value>
+  </data>
+  <data name="phdUser" xml:space="preserve">
+    <value>--改修メイン担当を選択してください--</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>検索...</value>
+  </data>
+  <data name="taskHeader" xml:space="preserve">
+    <value>改修一覧</value>
+  </data>
+  <data name="btnBack" xml:space="preserve">
+    <value>戻る</value>
+  </data>
+  <data name="clmBug" xml:space="preserve">
+    <value>指摘・バグ件数</value>
+  </data>
+  <data name="clmErrorAnalysis" xml:space="preserve">
+    <value>レビュー指摘事項・バグ分類</value>
+  </data>
+  <data name="clmPhase" xml:space="preserve">
+    <value>フェーズ</value>
+  </data>
+  <data name="clmReference" xml:space="preserve">
+    <value>備考</value>
+  </data>
+  <data name="taskHeaderAdd" xml:space="preserve">
+    <value>改修の追加</value>
+  </data>
+  <data name="taskHeaderEdit" xml:space="preserve">
+    <value>改修の編集</value>
+  </data>
+  <data name="titleErrorAnalysis" xml:space="preserve">
+    <value>レビュー指摘事項・バグ分類及び分析表</value>
+  </data>
+  <data name="target" xml:space="preserve">
+    <value>品質指標</value>
+  </data>
+  <data name="testPhase" xml:space="preserve">
+    <value>テスト</value>
+  </data>
+  <data name="tolerance" xml:space="preserve">
+    <value>指標値 （許容範囲）</value>
+  </data>
+  <data name="userInfo" xml:space="preserve">
+    <value>ユーザー情報</value>
+  </data>
+  <data name="reason" xml:space="preserve">
+    <value>★あり：問題の原因分析、改善方針等々&lt;/br&gt;
+★なし：成功の原因分析、波及方法等々</value>
+  </data>
+  <data name="errorAnalysis" xml:space="preserve">
+    <value>改修内容</value>
+  </data>
+  <data name="errorHeaderAdd" xml:space="preserve">
+    <value>新しいエラー分析を作成する</value>
+  </data>
+  <data name="errorHeaderEdit" xml:space="preserve">
+    <value>エラー分析の編集</value>
+  </data>
+  <data name="phdBug" xml:space="preserve">
+    <value>--指摘・バグ件数を入力してください--</value>
+  </data>
+  <data name="phdError" xml:space="preserve">
+    <value>--フェーズを選択してください--</value>
+  </data>
+  <data name="phdPhase" xml:space="preserve">
+    <value>--フェーズを選択してください--</value>
+  </data>
+  <data name="phdReference" xml:space="preserve">
+    <value>--備考を入力してください--</value>
+  </data>
+  <data name="phdTaskk" xml:space="preserve">
+    <value>--改修を選択してください--</value>
+  </data>
+  <data name="accepMajor" xml:space="preserve">
+    <value>業務側受入指摘事項</value>
+  </data>
+  <data name="detailTarget" xml:space="preserve">
+    <value>分析</value>
+  </data>
+  <data name="errorAcceptBRC" xml:space="preserve">
+    <value>BRC受入指摘事項</value>
+  </data>
+  <data name="errorAcceptOSC" xml:space="preserve">
+    <value>OSC様受入指摘事項</value>
+  </data>
+  <data name="errorRateOnJob" xml:space="preserve">
+    <value>工数に対する
+指摘率</value>
+  </data>
+  <data name="errorReview" xml:space="preserve">
+    <value>レビュー指摘事項</value>
+  </data>
+  <data name="numBug" xml:space="preserve">
+    <value>バグ件数</value>
+  </data>
+  <data name="numJob" xml:space="preserve">
+    <value>工数</value>
+  </data>
+  <data name="numJobDesignText" xml:space="preserve">
+    <value>工数
+（設計～テスト）</value>
+  </data>
+  <data name="numTest" xml:space="preserve">
+    <value>テスト件数</value>
+  </data>
+  <data name="rateBugHit" xml:space="preserve">
+    <value>バグヒット率</value>
+  </data>
+  <data name="yesNoOverStand" xml:space="preserve">
+    <value>基準値
+超過有無</value>
+  </data>
+  <data name="address" xml:space="preserve">
+    <value>住所</value>
+  </data>
+  <data name="birthDate" xml:space="preserve">
+    <value>生年月日</value>
+  </data>
+  <data name="conternt" xml:space="preserve">
+    <value>項目</value>
+  </data>
+  <data name="detailContent" xml:space="preserve">
+    <value>詳細</value>
+  </data>
+  <data name="email" xml:space="preserve">
+    <value>メールアドレス</value>
+  </data>
+  <data name="holderNewPass" xml:space="preserve">
+    <value>新パスワードを入力してください...</value>
+  </data>
+  <data name="holderOldPass" xml:space="preserve">
+    <value>現在のパスワードを入力してください...</value>
+  </data>
+  <data name="holderRetypeNewPass" xml:space="preserve">
+    <value>確認のため、再度新パスワードを入力してください...</value>
+  </data>
+  <data name="infouser" xml:space="preserve">
+    <value>ユーザー情報</value>
+  </data>
+  <data name="newPass" xml:space="preserve">
+    <value>新パスワード</value>
+  </data>
+  <data name="numberPhane" xml:space="preserve">
+    <value>電話番号</value>
+  </data>
+  <data name="oldPass" xml:space="preserve">
+    <value>現在のパスワード</value>
+  </data>
+  <data name="passANotdetail" xml:space="preserve">
+    <value>違うパスワード</value>
+  </data>
+  <data name="passDiffrent" xml:space="preserve">
+    <value>パスワードが確認用パスワードと一致していません</value>
+  </data>
+  <data name="retypeNewPass" xml:space="preserve">
+    <value>新パスワード（確認用)</value>
+  </data>
+  <data name="targetCode" xml:space="preserve">
+    <value>工数(製造)</value>
+  </data>
+  <data name="targetDesign" xml:space="preserve">
+    <value>工数(設計)</value>
+  </data>
+  <data name="targetTest" xml:space="preserve">
+    <value>テスト件数(テスト)</value>
+  </data>
+  <data name="usename" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="errorLoginFail" xml:space="preserve">
+    <value>ユーザーまたはパスワードが間違っているようです。もう一度入力してください。</value>
+  </data>
+  <data name="errorLoginFailOver" xml:space="preserve">
+    <value>ユーザーまたはパスワードが3回正しく入力されていません。ユーザーがロックされました。「パスワードをお忘れの方」をクリックしてください。!</value>
+  </data>
+  <data name="login" xml:space="preserve">
+    <value>ログイン</value>
+  </data>
+  <data name="noData" xml:space="preserve">
+    <value>～入力してください！</value>
+  </data>
+  <data name="noProject" xml:space="preserve">
+    <value>あなたのためのプロジェクトはありません</value>
+  </data>
+  <data name="capchaError" xml:space="preserve">
+    <value>キャプチャの入力が間違っていました。もう一度確認してください。</value>
+  </data>
+  <data name="emailNotDetail" xml:space="preserve">
+    <value>メールアドレスが存在していません！</value>
+  </data>
+  <data name="emaiSendFinish" xml:space="preserve">
+    <value>パスワードを再設定されました。パスワードのリセットメールが送信されました。5分間確認してください。5分後、メールはキャンセルされます。</value>
+  </data>
+  <data name="forGotPassword" xml:space="preserve">
+    <value>パスワードをお忘れの方</value>
+  </data>
+  <data name="passWord" xml:space="preserve">
+    <value>パスワード</value>
+  </data>
+  <data name="retypePassword" xml:space="preserve">
+    <value>パスワード （確認用)</value>
+  </data>
+  <data name="send" xml:space="preserve">
+    <value>送信</value>
+  </data>
+  <data name="setPassword" xml:space="preserve">
+    <value>パスワードを再設定</value>
+  </data>
+  <data name="confDownload" xml:space="preserve">
+    <value>このファイルをダウンロードしますか？</value>
+  </data>
+  <data name="reasonCSV" xml:space="preserve">
+    <value>★あり：問題の原因分析、改善方針等
+★なし：成功の原因分析、波及方法等々</value>
+  </data>
+  <data name="editQuanlity" xml:space="preserve">
+    <value>編集</value>
+  </data>
+  <data name="btnChange" xml:space="preserve">
+    <value>変更</value>
+  </data>
+  <data name="noDataID" xml:space="preserve">
+    <value>ユーザーIDを入力することが必要！</value>
+  </data>
+  <data name="noDatapass" xml:space="preserve">
+    <value>パスワードを入力することが必要！</value>
+  </data>
+  <data name="ErrorOverEight" xml:space="preserve">
+    <value>パスワードは8文字以下で入力してください！</value>
+  </data>
+  <data name="ChangeDataFail" xml:space="preserve">
+    <value>挿入失敗！</value>
+  </data>
+  <data name="ChangeDataSucces" xml:space="preserve">
+    <value>正常に挿入されました!</value>
+  </data>
+</root>
